@@ -75,7 +75,7 @@ def main():
     print(f"Demorou {fim - inicio:.2f} segundos")
     for i in range(N):
         print(f"Filosofo {i} comeu {vezes_que_comeu[i]} vezes")
-    print("\nNinguem travou, todo mundo conseguiu comer. Deu certo!")
+    print("\nNinguem travou, todo mundo conseguiu comer.")
 
 
 if __name__ == "__main__":
